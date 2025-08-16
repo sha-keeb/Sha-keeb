@@ -1,5 +1,8 @@
 # Hi there, I'm Shakeeb 👋
 
+<img src="https://github.com/yourusername/yourrepo/blob/main/download.JPGE?raw=true" width="300" />
+
+
 💻 Computer Systems Engineering student at SLIIT  
 ⚡ Passionate about Python automation & backend development  
 🎯 Goal: Become a Systems Engineer & Freelancer  
