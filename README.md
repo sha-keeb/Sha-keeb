@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Shakeeb 👋
 
-<!--
-**sha-keeb/Sha-keeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Systems Engineering student at SLIIT  
+⚡ Passionate about Python automation & backend development  
+🎯 Goal: Become a Systems Engineer & Freelancer  
+📚 Currently learning C, Python, and Systems Design
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Shakeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakeeb822&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeeb822&layout=compact&theme=tokyonight)
+
+### 📫 Connect with me
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:shakeebaduham822@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shakeeb822&color=blue)
+
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
