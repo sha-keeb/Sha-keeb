@@ -11,9 +11,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-![Shakeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakeeb822&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeeb822&layout=compact&theme=tokyonight)
 
 ### 📫 Connect with me
 [![Main Email](https://img.shields.io/badge/-Main%20Email-0056D2?logo=microsoft-outlook&logoColor=white)](mailto:it25102811@my.sliit.lk)  
