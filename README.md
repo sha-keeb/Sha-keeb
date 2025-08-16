@@ -16,9 +16,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeeb822&layout=compact&theme=tokyonight)
 
 ### 📫 Connect with me
-### 📫 Connect with me
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:shakeebaduham822@gmail.com)  
-[![Main Email](https://img.shields.io/badge/-SLIIT%20Mail-0056D2?logo=microsoft-outlook&logoColor=white)](mailto:it25102811@my.sliit.lk)  
+[![Main Email](https://img.shields.io/badge/-Main%20Email-0056D2?logo=microsoft-outlook&logoColor=white)](mailto:it25102811@my.sliit.lk)  
+[![Secondary Email](https://img.shields.io/badge/-Secondary%20Email-D14836?logo=gmail&logoColor=white)](mailto:shakeebaduham822@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeeb-aduham-a26641243)
 
 
