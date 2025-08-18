@@ -28,7 +28,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeeb-aduham-a26641243)
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shakeeb822&color=blue)
 
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
