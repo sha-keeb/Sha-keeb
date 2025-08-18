@@ -15,11 +15,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 
-# 📊 GitHub Stats
-
-![Shakeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sha-keeb&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-keeb&layout=compact&theme=tokyonight)
 
 
 ### 📫 Connect with me
