@@ -21,19 +21,19 @@ My interests span **automotive electronics, industrial automation, and aerospace
 
 These projects reflect my current programming foundation. Hardware projects are the next step in my portfolio.
 
-| Project | What I practiced | Stack |
-| :--- | :--- | :--- |
-| [**Tic-Tac-Toe**](https://github.com/sha-keeb/Tic_Tac_Toe_Game_Changed-) | Structures, arrays, game logic, configurable boards, and file logging | C |
-| [**Student Management**](https://github.com/sha-keeb/SE2012-2026-S2-L02) | Classes, packages, enrollment, searching, sorting, and JavaDoc | Java |
-| [**Java Fundamentals**](https://github.com/sha-keeb/SE2012-2025-S2-L01) | Console input, arrays, student marks, and grade calculations | Java |
+| Project | What I practiced |
+| :--- | :--- |
+| [**Tic-Tac-Toe · C**](https://github.com/sha-keeb/Tic_Tac_Toe_Game_Changed-) | Structures, arrays, game logic, configurable boards, and file logging |
+| [**Student Management · Java**](https://github.com/sha-keeb/SE2012-2026-S2-L02) | Classes, packages, enrollment, searching, sorting, and JavaDoc |
+| [**Java Fundamentals**](https://github.com/sha-keeb/SE2012-2025-S2-L01) | Console input, arrays, student marks, and grade calculations |
 
 ## At the workbench
 
-| Current foundation | Developing next |
-| :--- | :--- |
-| Introductory C; Java and SQL coursework | Embedded C/C++ and microcontroller peripherals |
-| Experimenting with Arduino, ESP32, sensors, and breadboard circuits | Communication protocols, feedback control, and hardware debugging |
-| Basic electronics prototyping, multimeter use, and soldering | Circuit design, PCB design, and real-time programming |
+**Programming foundation** · Introductory C; Java and SQL coursework.
+
+**Hands-on electronics** · Experimenting with Arduino, ESP32, sensors, and breadboard circuits; basic multimeter use and soldering.
+
+**Developing next** · Embedded C/C++, microcontroller peripherals, communication protocols, feedback control, circuit and PCB design, and hardware debugging.
 
 ## Learning roadmap
 
