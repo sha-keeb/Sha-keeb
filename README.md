@@ -1,45 +1,55 @@
 <div align="center">
 
-![Shakeeb Aduham — pixel developer workstation](assets/cyberpunk-banner.svg)
+![Shakeeb Aduham — a pixel workstation beneath a moonlit sky, with a gently animated lime signal](assets/embedded-banner.gif)
 
-**Computer Systems Engineering Undergraduate · SLIIT**
+### Computer Systems Engineering Undergraduate · SLIIT
+**Aspiring Embedded Systems Engineer · Sri Lanka**
 
-[C projects](https://github.com/sha-keeb/Tic_Tac_Toe_Game_Changed-) · [Java projects](https://github.com/sha-keeb/SE2012-2026-S2-L02) · [LinkedIn](https://www.linkedin.com/in/shakeeb-aduham-a26641243) · [Email](mailto:shakeebaduham822@gmail.com)
+[Selected work](#selected-work) · [Learning roadmap](#learning-roadmap) · [LinkedIn](https://www.linkedin.com/in/shakeeb-aduham-a26641243) · [Email](mailto:shakeebaduham822@gmail.com)
+
+<sub>Code / Circuits / Control</sub>
 
 </div>
 
 ## About
 
-I'm Shakeeb. I’m building my programming foundation through practical **C and Java** projects, with an interest in **embedded systems, IoT, and automation**.
+I'm Shakeeb, studying **BSc (Hons) in Computer Systems Engineering at SLIIT**. I’m building my foundation in C programming and hands-on electronics, with a goal of developing embedded systems that connect software to the physical world.
 
-I enjoy understanding how software works close to the hardware, and turning what I learn into clear, well-documented projects.
+My interests span **automotive electronics, industrial automation, and aerospace embedded systems**—especially microcontrollers, sensors, and control systems.
 
 ## Selected work
 
-| Project | Focus | Stack |
+These projects reflect my current programming foundation. Hardware projects are the next step in my portfolio.
+
+| Project | What I practiced | Stack |
 | :--- | :--- | :--- |
-| [**Tic-Tac-Toe**](https://github.com/sha-keeb/Tic_Tac_Toe_Game_Changed-) | Configurable boards, multiplayer modes, random-move computer opponent, and file logging | C |
+| [**Tic-Tac-Toe**](https://github.com/sha-keeb/Tic_Tac_Toe_Game_Changed-) | Structures, arrays, game logic, configurable boards, and file logging | C |
 | [**Student Management**](https://github.com/sha-keeb/SE2012-2026-S2-L02) | Classes, packages, enrollment, searching, sorting, and JavaDoc | Java |
 | [**Java Fundamentals**](https://github.com/sha-keeb/SE2012-2025-S2-L01) | Console input, arrays, student marks, and grade calculations | Java |
 
-## Toolkit
+## At the workbench
 
-![C, Java, Git, and GitHub vector icons](assets/toolkit.svg)
+| Current foundation | Developing next |
+| :--- | :--- |
+| Introductory C; Java and SQL coursework | Embedded C/C++ and microcontroller peripherals |
+| Experimenting with Arduino, ESP32, sensors, and breadboard circuits | Communication protocols, feedback control, and hardware debugging |
+| Basic electronics prototyping, multimeter use, and soldering | Circuit design, PCB design, and real-time programming |
 
-**Building with** · C · Java · Git · GitHub  
-**Exploring** · Python · SQL · Spring Boot · REST APIs  
-**Hardware interests** · Arduino · Embedded systems · IoT  
-**Tools** · MySQL · Postman
+## Learning roadmap
 
-## Next up
+Strengthening C, understanding electronics, and documenting what I build and measure.
 
-- Strengthen C programming and problem-solving skills.
-- Build documented hardware and software projects.
-- Explore how embedded devices connect to backend services.
+**Planned project ideas**
+
+- **ESP32 closed-loop motor controller** — explore PWM, encoder feedback, and PID control.
+- **CAN-bus communication demonstrator** — explore messages between microcontroller nodes, sensor data, and fault detection.
+
+<sub>These are learning goals and planned experiments; implementations are not yet published.</sub>
 
 ---
 
 <div align="center">
-<sub>CODE / CIRCUITS / CONNECTED SYSTEMS</sub><br />
-<sub>Learning, building, and improving — one project at a time.</sub>
+<strong>Learn. Build. Measure. Improve.</strong><br />
+<sub>Working toward a career in embedded systems and hardware engineering.</sub><br /><br />
+<sub><a href="assets/embedded-banner.svg">Static header</a> · <a href="assets/README.md">Artwork & animation</a></sub>
 </div>
