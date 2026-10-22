@@ -24,6 +24,8 @@ I enjoy understanding how software works close to the hardware, and turning what
 
 ## Toolkit
 
+![C, Java, Git, and GitHub vector icons](assets/toolkit.svg)
+
 **Building with** · C · Java · Git · GitHub  
 **Exploring** · Python · SQL · Spring Boot · REST APIs  
 **Hardware interests** · Arduino · Embedded systems · IoT  
