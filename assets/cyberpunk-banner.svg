@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Shakeeb Aduham — code, circuits, systems</title><desc id="desc">Dark cyberpunk banner with a male pixel-art developer at a glowing workstation.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#172238" stroke-width="1"/></pattern><linearGradient id="edge"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1200" height="380" rx="18" fill="#090e1a"/><rect width="1200" height="380" rx="18" fill="url(#grid)" opacity=".55"/>
+<path d="M40 42H1160M40 338H1160" stroke="#233047"/>
+<path d="M40 42H145M1055 338H1160" stroke="url(#edge)" stroke-width="3"/>
+<g font-family="monospace"><text x="60" y="87" fill="#22d3ee" font-size="14" letter-spacing="3">SHA-KEEB / SYSTEMS IN PROGRESS</text>
+<text x="57" y="160" fill="#e6edf7" font-size="54" font-weight="700" letter-spacing="-2">SHAKEEB ADUHAM</text>
+<text x="60" y="202" fill="#9aaac1" font-size="18">Computer Systems Engineering · SLIIT</text>
+<text x="60" y="250" fill="#c4b5fd" font-size="16">CODE  /  CIRCUITS  /  CONNECTED SYSTEMS</text>
+<rect x="60" y="280" width="8" height="8" fill="#22d3ee"/><text x="81" y="289" fill="#73849f" font-size="13" letter-spacing="1">LEARN. BUILD. DEBUG. REPEAT.</text></g>
+<g shape-rendering="crispEdges" transform="translate(805 62) scale(4)">
+<path d="M0 58H86V61H0Z" fill="#4b5e7b"/><path d="M5 61H8V70H5ZM78 61H81V70H78Z" fill="#27364d"/>
+<path d="M46 10H86V43H46Z" fill="#24334a"/><path d="M48 12H84V41H48Z" fill="#071a29"/><path d="M51 16H58V18H51ZM60 16H73V18H60ZM51 21H66V23H51ZM56 26H78V28H56ZM51 31H63V33H51ZM65 31H75V33H65Z" fill="#22d3ee"/><path d="M56 21H61V23H56ZM64 36H79V38H64Z" fill="#a78bfa"/><path d="M64 43H68V49H64ZM57 49H75V51H57Z" fill="#41536f"/>
+<path d="M12 15H29V18H33V33H29V38H14V34H10V21H12Z" fill="#c28c6d"/><path d="M10 13H14V10H29V13H33V22H29V18H18V22H10Z" fill="#243047"/><path d="M13 10H17V7H22V10H29V13H13Z" fill="#34445e"/>
+<path d="M22 24H33V27H22Z" fill="#0c1527"/><path d="M25 24H30V26H25Z" fill="#67e8f9"/><path d="M29 30H33V32H29Z" fill="#8d5e4c"/>
+<path d="M18 37H27V41H18Z" fill="#ad765d"/><path d="M10 40H31V44H36V56H8V45H10Z" fill="#34446b"/><path d="M12 43H18V56H12Z" fill="#465a87"/><path d="M30 46H35V51H48V55H28V50H30Z" fill="#c28c6d"/><path d="M44 52H50V55H44Z" fill="#dda381"/><path d="M49 54H72V57H49Z" fill="#536984"/><path d="M51 54H70V55H51Z" fill="#22d3ee"/>
+<path d="M3 39H8V58H31V63H3Z" fill="#1d2c45"/><path d="M9 63H29V67H25V72H19V67H9Z" fill="#28354f"/>
+<path d="M76 50H82V57H76Z" fill="#a78bfa"/><path d="M82 51H85V55H82" fill="none" stroke="#a78bfa" stroke-width="1"/>
+</g></svg>
