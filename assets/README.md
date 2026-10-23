@@ -1,4 +1,16 @@
-# Profile artwork
+# Current profile visuals
+
+- `hardware-lab.gif`: user-supplied electronics-workbench animation, preserved unchanged (480 × 270, 96 frames, six-second loop).
+- `identity.svg`: nameplate and circuit motif.
+- `project-tictactoe.svg` and `project-japantech.svg`: original project cards, linked to their source repositories.
+- `toolbox.svg`: current skills and exploration areas, not proficiency ratings.
+- `learning-route.svg`: conceptual learning route, not a measured progress chart.
+- `signal-footer.svg`: circuit-style closing detail.
+
+All important project and identity information is also available as text in the profile. The animation is decorative and does not represent live hardware telemetry.
+
+## Previous artwork (preserved)
+
 
 The header combines the profile's original pixel workstation with a dark terminal frame, a moonlit landscape, monochrome textures, and a restrained lime accent. Reference images informed the visual direction; their image files are not embedded or redistributed.
 
