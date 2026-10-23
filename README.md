@@ -21,8 +21,8 @@ My direction: **embedded systems, automotive electronics, industrial automation,
 
 ## Featured projects
 
-<a href="https://github.com/sha-keeb/Tic_Tac_Toe_Game_Changed-"><img src="assets/project-tictactoe.svg" width="49%" alt="Tic-Tac-Toe — console game in C: boards, game logic, and file logging" /></a>
-<a href="https://github.com/LakithaX/japan-tech"><img src="assets/project-japantech.svg" width="49%" alt="Japan Tech — collaborative web development project; private repository" /></a>
+<a href="https://github.com/sha-keeb/Tic_Tac_Toe_Game_Changed-"><img src="assets/project-tictactoe.svg" width="420" alt="Tic-Tac-Toe — console game in C: boards, game logic, and file logging" /></a>
+<a href="https://github.com/LakithaX/japan-tech"><img src="assets/project-japantech.svg" width="420" alt="Japan Tech — collaborative web development project; private repository" /></a>
 
 **[Tic-Tac-Toe · C](https://github.com/sha-keeb/Tic_Tac_Toe_Game_Changed-)** — Configurable boards, multiplayer modes, a random-move computer opponent, and game logging.
 
